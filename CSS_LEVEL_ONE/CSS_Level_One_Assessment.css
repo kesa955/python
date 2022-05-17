@@ -1,0 +1,28 @@
+body{
+  background: grey;
+}
+.blog{
+  border:2px solid black;
+}
+.sub{
+  background: yellow;
+}
+.site{
+  color:purple;
+}
+.lio{
+  text-decoration: overline;
+  color: purple;
+}
+.e1,.p1,.s1{
+  border-color:red;
+}
+.qorc{
+  background-color: yellow;
+}
+.qc{
+  border-width: thick;
+  border-style: dotted;
+  border-color: yellow;
+
+}

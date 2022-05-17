@@ -1,0 +1,33 @@
+h1{
+  margin-top: 200px;
+  font-family: 'Macondo', cursive;
+  text-align: center;
+}
+table{
+  margin: auto;
+}
+#c1{
+  background-color: #BAF2BB;
+  height: 100px;
+  width: 50px;
+}
+#c2{
+  background-color: #BAF2D8;
+  height: 70px;
+  width: 50px;
+}
+#c3{
+  background-color: #BAD7F2;
+  height: 70px;
+  width: 50px;
+}
+#c4{
+  background-color: #F2BAC9;
+  height: 70px;
+  width: 50px;
+}
+#c5{
+  background-color: #F2E2BA;
+  height: 70px;
+  width: 50px;
+}
